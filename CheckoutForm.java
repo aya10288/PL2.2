@@ -102,7 +102,7 @@ public class CheckoutForm extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private FileStorage storage = new FileStorage("data"); // اسم الفولدر اللي فيه الكتب
+    private FileStorage storage = new FileStorage("data"); 
     private LibrarianService service = new LibrarianService(storage);
 
     private void btnCheckoutBookActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCheckoutBookActionPerformed
