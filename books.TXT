@@ -1,0 +1,51 @@
+ID,title,author,genre,status
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,checked_out
+2,To Kill a Mockingbird,Harper Lee,Fiction,available
+3,1984,George Orwell,Dystopian,available
+4,The Hobbit,J.R.R. Tolkien,Fantasy,available
+5,Data Structures in Java,Mark Allen,Programming,available
+6,Pride and Prejudice,Jane Austen,Romance,available
+7,The Catcher in the Rye,J.D. Salinger,Fiction,available
+8,Moby-Dick,Herman Melville,Adventure,available
+9,War and Peace,Leo Tolstoy,Historical,available
+10,Crime and Punishment,Fyodor Dostoevsky,Philosophical,available
+11,The Alchemist,Paulo Coelho,Adventure,available
+12,Brave New World,Aldous Huxley,Dystopian,available
+13,The Lord of the Rings,J.R.R. Tolkien,Fantasy,available
+14,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,available
+15,The Da Vinci Code,Dan Brown,Thriller,available
+16,The Hunger Games,Suzanne Collins,Dystopian,available
+17,The Maze Runner,James Dashner,Dystopian,available
+18,The Fault in Our Stars,John Green,Romance,available
+19,The Giver,Louis Lowry,Science Fiction,checked_out
+20,The Kite Runner,Khaled Hosseini,Drama,available
+21,The Girl on the Train,Paula Hawkins,Thriller,available
+22,Gone Girl,Gillian Flynn,Thriller,available
+23,The Shining,Stephen King,Horror,available
+24,It,Stephen King,Horror,available
+25,The Notebook,Nicholas Sparks,Romance,available
+26,The Outsiders,S.E. Hinton,Young Adult,available
+27,Anne of Green Gables,Lucy Montgomery,Classic,available
+28,The Secret Garden,Frances Burnett,Classic,available
+29,Frankenstein,Mary Shelley,Horror,available
+30,Dracula,Bram Stoker,Horror,available
+31,The Time Machine,H.G. Wells,Science Fiction,available
+32,The War of the Worlds,H.G. Wells,Science Fiction,available
+33,The Old Man and the Sea,Ernest Hemingway,Classic,available
+34,The Sun Also Rises,Ernest Hemingway,Classic,available
+35,The Call of the Wild,Jack London,Adventure,available
+36,White Fang,Jack London,Adventure,available
+37,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,available
+38,And Then There Were None,Agatha Christie,Mystery,available
+39,Murder on the Orient Express,Agatha Christie,Mystery,available
+40,The Picture of Dorian Gray,Oscar Wilde,Classic,available
+41,The Little Prince,Antoine de Saint-Exupéry,Fable,available
+42,The Chronicles of Narnia,C.S. Lewis,Fantasy,available
+43,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,available
+44,Ready Player One,Ernest Cline,Science Fiction,available
+45,The Martian,Andy Weir,Science Fiction,available
+46,The Silent Patient,Alex Michaelides,Thriller,available
+47,Shutter Island,Dennis Lehane,Thriller,available
+48,The Road,Cormac McCarthy,Post-Apocalyptic,available
+49,Life of Pi,Yann Martel,Adventure,available
+50,The Book Thief,Markus Zusak,Historical,available
